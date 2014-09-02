@@ -7,5 +7,5 @@ now lets enter a list
 -item 2
 -item 3
 
-1.item1
-2.item2
+1. item1
+2. item2
